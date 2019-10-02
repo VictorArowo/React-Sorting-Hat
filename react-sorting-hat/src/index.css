@@ -1,5 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: Harry;
+}
+
+@font-face {
+  font-family: 'Harry';
+  src: local('Harry'), url(./fonts/HARRYP__.TTF) format('truetype');
 }
